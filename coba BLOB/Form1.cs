@@ -14,6 +14,7 @@ using System.Windows.Forms;
 
 namespace coba_BLOB
 {
+
     public partial class Form1 : Form
     {
         Image curImage;
